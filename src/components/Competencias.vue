@@ -104,8 +104,8 @@
                         tenho as disciplinas de desenvolvimento Web, Android e também redes de computadores. Agregando diversas
                         linguagens e conhecimentos para a minha carreira.
                         </v-flex>
-                             
-                     </v-flex>
+                          
+                     
 
                      <v-flex
                      xs12

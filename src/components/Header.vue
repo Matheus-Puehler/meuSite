@@ -51,7 +51,6 @@
     </v-toolbar-items>
 
     <v-spacer />
-
     <v-layout
       row
       align-center
