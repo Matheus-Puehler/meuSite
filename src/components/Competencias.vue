@@ -31,7 +31,7 @@
                      class="text" 
                       >
                       <br>
-                             Ao longo do ensino médio realizer diversos trabalhos em grupo, mas ressalto diversos
+                             Ao longo do ensino médio realizar diversos trabalhos em grupo, mas ressalto diversos
                          trabalhos em específico. O primeiro é o "Truco", que tive que desenvolver um jogo de truco 
                          para o computador, mesmo estando em um grupo de 3 pessoas com meus amigos foi difícil de 
                          administrar as funções de cada um, assim tive a oportunidade de aprender com os erros.
