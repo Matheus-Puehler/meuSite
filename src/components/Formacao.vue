@@ -37,7 +37,7 @@
                             <v-flex xs12 class="texto">
                                 <br>
                                 Descrição: Educação menonita, com forte embasamento em raciocínio
-                                lógico e também com estudos aprofundados em história e geográfia.
+                                lógico e também com estudos aprofundados em História e Geografia.
                             </v-flex>
                         </v-layout>
                     </v-layout>
@@ -75,7 +75,7 @@
                             </v-layout>
                             <v-flex xs12 class="texto">
                                 <br>
-                              Ensino médio técnico integrado em Informática ao ensino médio.
+                              Curso técnico em Informática integrado ao Ensino Médio.
                             </v-flex>
                             <v-flex xs12 class="texto">
                                 <br>

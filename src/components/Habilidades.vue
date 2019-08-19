@@ -25,13 +25,13 @@
         <v-card class="container">
             <v-flex xs12 class="texto">
                 <b>Edição de imagens e fotos: </b>
-                Aprendi a mexer no Adobe Photoshop no início de 2017, desde então isso tem sido mais um hobbie,
+                Aprendi a usar o Adobe Photoshop no início de 2017, desde então isso tem sido mais um hobbie,
                 mas também isso foi útil para fazer imagens para softwares em geral, como as do meu TCC.
             </v-flex>
             <v-flex xs12 class="texto">
                 <b>Edição de vídeo: </b>
                 Ao longo do desenvolvimento do segundo desafio do processo seletivo da Bosch foi
-                importante o saber da edição dentro do Vegas Pro.
+                importante conhecimentos de edição dentro do Vegas Pro.
             </v-flex>
             <v-flex xs12 class="texto">
                 <b>Sistemas Operacionais e arquitetura de computadores: </b>

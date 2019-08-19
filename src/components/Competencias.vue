@@ -31,10 +31,12 @@
                      class="text" 
                       >
                       <br>
-                             Ao longo do ensino médio realizar diversos trabalhos em grupo, mas ressalto diversos
-                         trabalhos em específico. O primeiro é o "Truco", que tive que desenvolver um jogo de truco 
-                         para o computador, mesmo estando em um grupo de 3 pessoas com meus amigos foi difícil de 
-                         administrar as funções de cada um, assim tive a oportunidade de aprender com os erros.
+                             Ao longo do ensino médio realizei diversos trabalhos em grupo, mas ressalto alguns que me marcaram
+                        como um chamado "Truco", nele desenvolvi um jogo  
+                         para o computador, este possuia regras iguais as do jogo cartas conhecido. O trabalho
+                          foi feito em equipe, éramos 3 alunos, apesar de serem meus amigos, foi difícil 
+                           administrar as funções de cada um, assim tive a oportunidade de aprender
+                          como trabalhar em grupo, tendo uma meta, com prazos estabelecidos pelo professor.
                      </v-flex>
                           <v-flex
                      xs12
@@ -44,7 +46,7 @@
                       <br>
                             O outro se trata do projeto de conclusão do curso, que estou fazendo um site,
                          que interliga empresas com estudantes interessados em ingressar no mercado de trabalho. O 
-                         grupo também é formado por 3 alunos do técnico, como esse é muito mais regrado, tive que aprender
+                         grupo, também, é formado por 3 alunos do técnico, como esse é muito mais regrado, tive que aprender
                          a trabalhar com cronogramas e liderar as tarefas de cada integrante da equipe, além também de 
                          ter que lidar com diversas frustrações e falta de tempo.
 
@@ -81,9 +83,9 @@
                      class="text" 
                       >
                       <br>
-                         Por eu fazer um ensino médio técnico integrado em Informática tive aulas de programação desde 
-                       o 1º ano, iniciando-se com Lógica de Programação, onde pude além de aprender a lógica de básica de Java,
-                       também tive muitos treinos de raciocínio lógico.
+                         Pelo fato de cursar ensino médio técnico integrado em Informática tive aulas de programação desde 
+                       o 1º ano, iniciamos com Lógica de Programação, na qual aprendi a lógica de básica de Java,
+                       também desenvolvi o raciocínio lógico, através de aulas expostivas e exercícios práticos.
                        </v-flex>
                        
                         <v-flex
@@ -91,17 +93,17 @@
                      class="text" 
                       >
                       <br>
-                        Já no segundo ano, tive Programação Orientada à Objetos, matéria na qual se aprofunda
-                        intensamente em Java e seus conceitos. Também tive Banco de dados e modelagem de sistemas,
-                        em que se aprende toda o funcionamento por trás de qualquer sistema complexo de informação.
+                        Já no segundo ano, tive Programação Orientada à Objetos, matéria na qual estudamos
+                        intensamente em Java e seus conceitos. Também tive Banco de Dados e Modelagem de Sistemas,
+                        aprendemos todo o funcionamento por trás de qualquer sistema complexo de informação.
                         </v-flex>
                               <v-flex
                      xs12
                      class="text" 
                       >
                       <br>
-                        Agora no terceiro, estou desenvolvendo o Projeto de conclusão citado acima, assim como também
-                        tenho as disciplinas de desenvolvimento Web, Android e também redes de computadores. Agregando diversas
+                        Agora no terceiro, estou desenvolvendo o Projeto de conclusão, citado acima, assim como também
+                        tenho as disciplinas de Desenvolvimento Web, Android e também Redes de Computadores. Agregando diversas
                         linguagens e conhecimentos para a minha carreira.
                         </v-flex>
                           
@@ -175,10 +177,13 @@
                      xs12
                      class="text" 
                       >
-                         Após de tantas apresentações que eu estive nervoso no colégio, finalmente aprendi
-                         a conseguir transmitir minha mensagem de forma objetiva. Tinha vergonha por ter a língua
-                         presa, mas depois percebi que isso é um diferencial, quando eu to falando em público, todos sabem 
-                         que sou eu. Não nego que foi necessário muita prática e treino, mas hoje em dia consigo fazer isso 
+                         Após tantas apresentações, em que tive que aprender a lidar com nervosismo no colégio,
+                          finalmente aprendi
+                         a transmitir minha mensagem de forma objetiva. Tinha vergonha por ter a língua
+                         presa, mas depois percebi que isso é um diferencial, quando eu falo em público, 
+                         todos sabem 
+                         que sou eu. Não nego que foi necessário muita prática e treino, mas hoje em dia consigo fazer 
+                         isso com
                          êxito.
                      </v-flex>
                      <v-flex
@@ -186,8 +191,8 @@
                      class="text" 
                       >
                       <br>
-                         Outro ponto que vale a pena informar, é que eu tive que falar com muita gente diferente,
-                         principalmente no IFPR, a instituição tem mais de 2000 alunos, assim aos poucos fui perdendo
+                         Outro ponto que vale a pena informar, é que tive que falar com muita gente diferente,
+                         principalmente no IFPR, a instituição tem mais de 2000 alunos, assim aos poucos, fui perdendo
                          a vergonha de outras pessoas.
 
                      </v-flex>
